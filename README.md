@@ -1,7 +1,7 @@
-                    E-commerce-Website ---- <a href="https://e-cara.netlify.app" target="_blank">Cara - Website </a>
+E-commerce-Website ---- <a href="https://e-cara.netlify.app" target="_blank">Cara - Website </a>
 
-                    ![Cara](https://user-images.githubusercontent.com/114855172/214056656-fc57999d-1e08-477e-8001-3717caf6d523.gif)
 
+![Cara](https://user-images.githubusercontent.com/114855172/214056656-fc57999d-1e08-477e-8001-3717caf6d523.gif)
 
 
 
